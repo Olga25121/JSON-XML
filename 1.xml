@@ -3,8 +3,7 @@
  предоставьте правильный вариант в файле 1.xml: -->
 
 <?xml version="1.0"?>
-<commands>
-	<user>
+    <user>
 		<name>Иван</name>
 		<surname>Иванов</surname>
 		<patronymic>Иванович</patronymic>
